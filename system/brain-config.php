@@ -37,7 +37,7 @@
 	$config['hotelUrl'] = "http://localhost";//Address of your hotel. Does not end with a "/"
 	$config['skin'] = "david_vox"; //Skin/template of your website
 	$config['lang'] = "nl"; //Language of your website en/nl/es
-	$config['hotelName'] = "Fubbo"; //Name of your hotel
+	$config['hotelName'] = "RetroTalk"; //Name of your hotel
 	$config['favicon'] = "http://localhost/favi.ico";
 	$config['staffCheckHk'] = false; //Enable the staff pin in the housekeeping (true) or disable it (false)
 	$config['staffCheckHkMinimumRank'] = 3; //Minium staff rank to get the staff pin in the housekeeping

@@ -1,0 +1,234 @@
+@keyframes landing {
+	0% {
+		background-position: left 520px;
+	}
+	
+	10% {
+		background-position: left 520px;
+	}
+	
+	100% {
+		background-position: left bottom;
+	}
+}
+
+.landing {
+	background-color: #5EC8FC;
+	background-image: linear-gradient(#4FA8D2, #4FA8D2);
+	background-repeat: no-repeat;
+	background-size: 520px 116px;
+	background-position: left bottom;
+	width: 100%;
+	border-radius: 5px;
+	float: left;
+	position: relative;
+	overflow: hidden;
+	-webkit-animation: landing 1s ease-out;
+	animation: landing 1s ease-out;
+}
+
+@keyframes landing_title {
+	0% {
+		margin-top: 50px;
+		opacity: 0;
+	}
+	
+	50% {
+		margin-top: 50px;
+		opacity: 0;
+	}
+	
+	100% {
+		margin-top: 26px;
+		opacity: 1;
+	}
+}
+
+.landing .title {
+	color: #FFFFFF;
+	font-size: 26px;
+	font-weight: 500;
+	text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+	text-align: center;
+	margin-top: 26px;
+	-webkit-animation: landing_title 1.5s ease-out;
+	animation: landing_title 1.5s ease-out;
+}
+
+@keyframes main {
+	0% {
+		right: -270px;
+		bottom: 252px;
+	}
+	
+	40% {
+		right: -270px;
+		bottom: 252px;
+	}
+	
+	100% {
+		right: 0;
+		bottom: 100px;
+	}
+}
+
+.landing .main {
+	background-image: url(https://flushzone.nl/templates/flush/style/images/main.png);
+	width: 270px;
+	height: 192px;
+	position: absolute;
+	right: 0;
+	bottom: 100px;
+	-webkit-animation: main 1.5s ease-out;
+	animation: main 1.5s ease-out;
+}
+
+@keyframes bubble {
+	0% {
+		left: 39px;
+		top: 270px;
+		opacity: 0;
+	}
+	
+	60% {
+		opacity: 0;
+	}
+	
+	80% {
+		left: 39px;
+		top: 150px;
+		opacity: 1;
+	}
+	
+	100% {
+		left: 39px;
+		top: 130px;
+	}
+}
+
+.landing .bubble {
+	background-image: url(https://flushzone.nl/templates/flush/style/images/bubble.png);
+	width: 182px;
+	height: 41px;
+	line-height: 34px;
+	text-align: center;
+	color: #666666;
+	font-size: 12px;
+	position: absolute;
+	left: 39px;
+	top: 130px;
+	-webkit-animation: bubble 3.5s ease-out;
+	animation: bubble 3.5s ease-out;
+	z-index: 2;
+}
+
+@keyframes bubbleb {
+	0% {
+		left: 179px;
+		top: 194px;
+		opacity: 0;
+	}
+	
+	80% {
+		left: 179px;
+		top: 194px;
+		opacity: 0;
+	}
+	
+	100% {
+		left: 179px;
+		top: 174px;
+		opacity: 1;
+	}
+}
+
+.landing .bubble.second {
+	background-position: left bottom;
+	width: 202px;
+	height: 41px;
+	position: absolute;
+	left: 179px;
+	top: 174px;
+	-webkit-animation: bubbleb 3.5s ease-out;
+	animation: bubbleb 3.5s ease-out;
+}
+
+@keyframes landing_user {
+	0% {
+		height: 0px;
+		bottom: 120px;
+	}
+	
+	70% {
+		height: 0px;
+		bottom: 120px;
+	}
+	
+	100% {
+		height: 110px;
+		bottom: 120px;
+		opacity: 1;
+	}
+}
+
+.landing .user {
+	width: 64px;
+	height: 110px;
+	position: absolute;
+	left: 80px;
+	bottom: 120px;
+	-webkit-animation: landing_user 2s ease-out;
+	animation: landing_user 2s ease-out;
+}
+
+@keyframes landing_button {
+	0% {
+		margin-top: 300px;
+		opacity: 0;
+	}
+	
+	60% {
+		margin-top: 300px;
+		opacity: 0;
+	}
+	
+	100% {
+		margin-top: 233px;
+		opacity: 1;
+	}
+}
+
+.landing .button {
+	background-image: url(https://flushzone.nl/templates/flush/style/images/button.png);
+	width: 304px;
+	height: 56px;
+	line-height: 56px;
+	margin: 0 auto;
+	color: #FFFFFF;
+	font-size: 16px;
+	font-weight: 500;
+	text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+	text-align: center;
+	margin-top: 255px;
+	margin-bottom: -5px;
+	position: relative;
+	-webkit-animation: landing_button 1.5s ease-out;
+	animation: landing_button 1.5s ease-out;
+	transition: all 0.4s;
+}
+
+.landing .desc {
+	color: #FFFFFF;
+	font-weight: 500;
+	text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+	text-align: center;
+	margin-top: 26px;
+	position: relative;
+	-webkit-animation: landing_title 1.5s ease-out;
+	animation: landing_title 1.5s ease-out;
+	transition: all 0.4s;
+}
+
+.landing .button:hover ~ .desc {
+	margin-top: 30px;
+}

@@ -1,0 +1,18 @@
+﻿Transformaties
+<span class="padding-top"></span><h3>Hoe werkt het transformeren?</h3><span class="padding-top"></span>
+<span class="padding-top"><br></span><p>Het is mogelijk om te transformeren in andere gedaantes. Je kan bijvoorbeeld veranderen in een huisdier, baby of Pokémon. Je kunt veranderen door de command <b>:tf id (0-51)</b> te gebruiken.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Huisdieren</h3><span class="padding-bottom"></span>
+<span class="padding-top" vspace="2"><br></span><p>       0             1             2             3              4             5             6             7</p>
+<img src="https://habbis.nl/bibliotheek/c_images/habbopages/transformeren_1.png" vspace="0" align="left" hspace="2"/><span class="padding-top"><br></span><br><span class="padding-bottom"><br></span><br>
+<span class="padding-top" vspace="4"><br></span><p>       8             9            10           11          12           13           14           15</p>
+<img src="https://habbis.nl/bibliotheek/c_images/habbopages/transformeren_2.png" vspace="0" align="left" hspace="2"/><span class="padding-top"><br></span><br><span class="padding-bottom"><br></span><br>
+<span class="padding-top" vspace="4"><br></span><p>     16           17          18           19           20           21          22           23</p>
+<img src="https://habbis.nl/bibliotheek/c_images/habbopages/transformeren_3.png" vspace="0" align="left" hspace="2"/><span class="padding-top"><br></span><br><span class="padding-bottom"><br></span><br>
+<span class="padding-top" vspace="4"><br></span><p>     24           25          26           27           28           29          30           31</p>
+<img src="https://habbis.nl/bibliotheek/c_images/habbopages/transformeren_4.png" vspace="0" align="left" hspace="2"/><span class="padding-top"><br></span><br><span class="padding-bottom"><br></span><br>
+<span class="padding-top" vspace="4"><br></span><p>     32           33          34           35           36           37          38           39</p>
+<img src="https://habbis.nl/bibliotheek/c_images/habbopages/transformeren_5.png" vspace="0" align="left" hspace="2"/><span class="padding-top"><br></span><br><span class="padding-bottom"><br></span><br>
+<span class="padding-top" vspace="4"><br></span><p>     40           41          42           43           44           45          46           47</p>
+<img src="https://habbis.nl/bibliotheek/c_images/habbopages/transformeren_6.png" vspace="0" align="left" hspace="2"/><span class="padding-top"><br></span><br><span class="padding-bottom"><br></span><br>
+<span class="padding-top" vspace="4"><br></span><p>     48           49          50           51           </p>
+<img src="https://habbis.nl/bibliotheek/c_images/habbopages/transformeren_7.png" vspace="0" align="left" hspace="2"/><span class="padding-top"><br></span><br><span class="padding-bottom"><br></span><br><br>

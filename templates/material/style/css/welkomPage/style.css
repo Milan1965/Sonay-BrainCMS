@@ -1,0 +1,61 @@
+
+body{
+	  background-color: #E8E8E8;
+}
+.container{
+	margin-top: 30px;
+}
+.panel-heading.intro{
+	
+	color: #FFF;
+	text-align: center;
+	
+}
+.panel-avatar{
+	border:0;
+	background:0;
+	box-shadow: none;
+	border: 1.5px solid rgba(0,0,0,0.9);
+	border-radius: 10px;
+}
+.panel-avatar > .panel-heading{
+	background: #00BD00;
+	box-shadow: 0px 2px 0 2px rgba(255,255,255,0.2) inset;
+
+	margin:-10px;
+	border-radius: 10px 10px 0 0px;
+	color: #FFF;
+	font-weight: bolder;
+	text-align: center;
+	border-bottom: 1px solid #000;
+
+}
+.panel-avatar > .panel-body{
+	background: #D8F3D8;
+	margin: -10px;
+	padding: 10px;
+	margin-top: 10px;
+	border-radius: 0 0 10px 10px;
+
+
+}
+.panel-avatar .avatar{
+	width: 75px;
+	height: 240px;
+	background-position: center 0;
+	position: absolute;
+	top:-20px;
+
+}
+.panel-avatar .content{
+	background: #FFF;
+	margin-left: 90px;
+	border-radius: 5px;
+	border: 1px solid grey;
+	box-shadow: 0px -4px 2px 0 rgba(0,0,0,0.1) inset,0px 4px 2px 0 rgba(0,0,0,0.1) inset;
+	padding: 10px;
+
+}
+.no-margin{
+    margin: -10px;
+}

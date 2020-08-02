@@ -1,0 +1,1 @@
+Op dit moment kun je alleen solliciteren via Discord! 

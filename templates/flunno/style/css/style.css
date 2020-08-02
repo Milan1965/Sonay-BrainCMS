@@ -1,0 +1,879 @@
+.usersbox {
+    background-color: #ccc;
+    background-position: -24px -45px;
+    border-radius: 3px;
+    display: inline-block;
+    height: 64px;
+    padding-right: 1px;
+    width: 70px;
+	margin-left: 4px;
+    margin-top: 5px;
+}
+
+body{
+    background-color: #E8E8E8;
+    background-image: url(../_images/shine-bg.png);
+    font-family: 'Roboto',sans-serif;
+}
+
+::selection {
+  background: #7abaf9;
+}
+
+p {
+margin: 0px 0px 10px;
+}
+
+#header .hotel {
+     background: url(/templates/flunno/style/images/cms/headerbg.png) repeat;
+     height: 185px;
+     position: absolute;
+     width: 100%;
+     right: 0%;
+     opacity: .6;
+     bottom:0;
+}
+
+#nieuwsauteuravatar {
+position: absolute;
+height: 66px;
+width: 70px;
+margin-top: -44px;
+margin-left: -30px;
+overflow: hidden;
+}
+#nieuwsauteurnaam {
+color: #888;
+margin-bottom: -17px;
+margin-top: -7px;
+margin-left: 35px;
+}
+#nieuwsdatum {
+color: #888;
+float:right;
+margin-right:-10px;
+}
+
+#reactiepoppetje {
+border: 2px dotted rgba(0, 0, 0, 0.2);
+margin-right: 10px;
+margin-left: -10px;
+float: left;
+height: 55px;
+width: 55px;
+border-radius: 555px;
+-moz-border-radius: 555px;
+-webkit-border-radius: 555px;
+}
+
+.head_enter {
+    width: 243px;
+	height: 53px;
+    position: relative;
+    background: white;
+    border: 1px solid gray;
+    padding: 5px;
+    border-radius: 5px;
+    top: 20px;
+    box-shadow: 3px 3px rgba(0,0,0,.3);
+	z-index:93939393;
+
+}
+.head_enter2 {
+    width: 207px;
+	height: 53px;
+    position: relative;
+    background: white;
+    border: 1px solid gray;
+    padding: 5px;
+    border-radius: 5px;
+    top: 20px;
+    box-shadow: 3px 3px rgba(0,0,0,.3);
+	z-index:93939393;
+
+}
+
+nav ul li.red {
+	border-top: 2px solid #AD1717;
+}
+
+nav ul li.red {
+		border-top: 0;
+	}
+	
+	.vdw a {
+	color: red;
+}
+
+::-webkit-scrollbar
+{
+    width: 0px;
+}
+
+.me-right {
+    float: right;
+    height: 100%;
+    width: 260px;
+}
+.me-right a {
+    text-decoration: none;
+}
+.me-right .my-currency {
+    background: url(/local/stats.png);
+    height: 95px;
+    width: 210px;
+    margin-left: 25px;
+    margin-top: 5px;
+    position: relative;
+}
+.me_info .credits {
+    color: #E2AE1D;
+    font-size: 14px;
+    position: relative;
+    top: 7px;
+    right: 35px;
+    text-align: right;
+	width: 79%;
+	margin-left: 45px;
+}
+.me_info .duckets {
+    color: #BA7CC2;
+    font-size: 14px;
+    position: relative;
+    top: 11px;
+    right: 35px;
+    text-align: right;
+	width: 79%;
+	margin-left: 45px;
+}
+.me_info .diamonds {
+    color: #0094ff;
+    font-size: 14px;
+    position: relative;
+    top: 15px;
+    right: 35px;
+    text-align: right;
+	width: 79%;
+	margin-left: 45px;
+}
+.me_info {
+    background: url(/local/pc.png);
+    min-height: 150px;
+    background-position: 0px 172px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px #888;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    height: auto;
+	font-family: 'Roboto',sans-serif;
+}
+.profile {
+    width: 55px;
+    height: 110px;
+    margin-left: 116px;
+    position: absolute;
+    margin-top: 21px;
+    cursor: pointer;
+}
+
+.box {
+    padding: 5px;
+    min-height: 20px;
+    background-position: 0px 214px;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.10), 0 2px 10px 0 rgba(0,0,0,.16);
+	margin-bottom: 15px;
+}
+
+.vdw.mvdw p {
+	position: relative;
+	font-size: 13px;
+	width: 70%;
+	float: right;
+}
+
+.vdw.gvdw p {
+	position: relative;
+	font-size: 13px;
+	width: 70%;
+	float: right;
+}
+
+.vdwuser {
+	width: 64px;
+	height: 135px;
+	margin-top: 17px;
+	float: left;
+	left: 2%;
+    /* top: 10%; */
+	text-align: center;
+	padding: 0px;
+	position: relative;
+}
+
+.onlinecount {
+    position: relative;
+    background: rgba(0, 0, 0, 0.41);
+    border-radius: 5px;
+    width: 196px;
+    text-align: center;
+    color: white;
+    height: 23px;
+    height: 23px;
+    line-height: 23px;
+}
+
+.waardeLijst {
+    position: relative;
+    top: 50%;
+}
+.no-margin{
+    margin: -10px;
+}
+#header{
+    height: 180px;
+    position: relative;
+
+}
+#header .leftview{
+     background: url(/templates/flunno/style/images/header_links.png) no-repeat 0 -50px;
+     height: 258px;
+     position: absolute;
+     width: 100%;
+     bottom:0;
+
+}
+#wolken{width:100%;height:200px;margin-top:-200px;background:url("/clouds_big.png");-webkit-animation:wolkenScroll 80s linear infinite;animation:wolkenScroll 80s linear infinite;}@-webkit-keyframes wolkenScroll{from{background-position:0 0;}to{background-position:-800px 0;}}@keyframes backgroundScroll{from{background-position:0 0;}to{background-position:-800px 0;}}
+
+#header .online-box{
+   position: relative;
+width: 150px;
+height: 40px;
+padding: 10px;
+background: #FFFFFF;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 3px;
+text-align: center;
+margin-left: 220px;
+margin-top: -50px;
+box-shadow: 0 3px 0 0 rgba(0,0,0,0.2);
+}
+#header .online-box:after {
+ content: '';
+position: absolute;
+border-style: solid;
+border-width: 8px 8px 8px 0;
+border-color: transparent #FFFFFF;
+
+display: block;
+width: 0;
+z-index: 1;
+left: -8px;
+top: 12px;
+}
+.logonew {
+    width: 230px;
+    height: 68px;
+    margin-top: 30px;
+}
+.friendlist {
+    display: inline-block;
+    position: relative;
+    color: #FFF;
+    width: 100%;
+    height: 103px;
+    margin-bottom: 10px;
+    font-family: Arial;
+    font-size: 15px;
+}
+
+.friendlist p.no-friends {
+    padding: 13px;
+    margin: 0;
+    top: 4px;
+    position: relative;
+    min-height: 70px;
+    width: 80%;
+    float: right;
+    font-size: 12px;
+}
+.friendlist .img {
+	float: left;
+    width: 20%;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 17px;
+}
+
+.friendlist .friend_1{
+	background: #EF233B;
+	margin-bottom: 10px;
+	border-radius: 4px;	
+}
+
+.friendlist .friend_2{
+	background: #EFA823;
+	margin-bottom: 10px;
+	border-radius: 4px;
+}
+.friendlist .friend_3{
+	background: #161616;
+	border-radius: 4px;	
+}
+.friendlist .friend_head{
+	height: 55px;
+	width: 55px;
+}
+.friendlist .friend_online{
+	float: right;
+    background: rgba(0,0,0,0.50);
+    color: white;
+    padding: 6px;
+    border-radius: 7px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    margin-right: 10px;
+    font-size: 13px;
+}
+.friendlist .circle_friend{
+	background: radial-gradient(rgba(255,255,255,0.5),#FFF);
+	border-radius: 100%;
+	margin: 5px;
+	border: 2px rgba(0,0,0,0.1) solid;
+}
+.numRows_friend {
+    background: rgba(0,0,0,0.5);
+    color: white;
+    padding: 5px 13px;
+    border-radius: 0px 0px 4px 4px;
+    font-size: 10px;
+}
+.simpleFriends_alert{
+	background: radial-gradient(#F50F0F,#E12727);
+	color: #FFF;
+	padding: 10px;
+	border-radius: 8px;
+	border: 2px rgba(0,0,0,0.3) solid;
+	margin-bottom: 10px;
+	font-size: 14px;
+}
+.simpleFriends_alert a{
+	text-decoration: underline;
+	color: #CECECE;
+}
+.simpleFriends_alert a:hover{
+	text-decoration: underline;
+	color: #FFF;
+}
+.friendlist .friend_icon{
+	
+	padding: 5px;
+}
+
+.navbar-default {
+    margin-top: -20px;
+    border: none;
+    border-radius: 0px;
+
+    -webkit-box-shadow: 0 -3px 0 0 rgba(0, 0, 0, 0.4), 0 3px 0 0 rgba(0, 0, 0, 0.4);
+    box-shadow: 0 -3px 0 0 rgba(0, 0, 0, 0.4), 0 3px 0 0 rgba(0, 0, 0, 0.4);
+    padding: 4px; /*6px*/
+    font-size: 17px;
+    font-family: Open Sans;
+    font-weight: 600;
+}
+.me-bar{
+    background-image: url(https://leet.ws/web/img/myleet/room.png);
+    background-color: #30373C;
+    position: relative;
+    padding: 0px;
+    padding-top: 20px;
+    border-radius:3px 3px 0 0;
+}
+.user-img{
+    width: 100px;
+    height: 130px;
+    background-repeat: no-repeat;
+    background-position: center -30px;
+    margin: auto;
+}
+.user-tab{
+    float:left;
+    width: 20%;
+}
+.name-tab{
+    float: left;
+    color: white;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+    width: 45%;
+}
+.button-tab{
+    float:left;
+    width: 20%;
+    padding-top: 30px;
+}
+.button-tab .btn{
+    font-size: 18px;
+    padding: 20px 37px;
+    
+}
+
+.name-tab ul{
+    text-decoration: none;
+    list-style: none;
+}
+.name-tab h2{
+   padding: 0;
+   margin: 0 ;
+}
+.badge{
+    padding: 4px;
+    width: 30px;
+    height: 30px;
+}
+
+.radio-body{
+    background: url(/templates/flunno/style/images/dj_bg.png) center center;
+    height: 193px;
+    border-radius: 3px;
+    padding: 10px;
+    position: relative;
+}
+.radio-bubble{
+    margin-top: 15px;
+    position: relative;
+    background: #FFF;
+    width: 210px;
+    height: 142px;
+    border: 1px solid #000;
+    border-radius: 3px;
+
+    box-shadow: 0 3px 1px 1px rgba(0,0,0,0.5);
+    padding: 10px;
+}
+.radio-bubble .radio-song{
+    margin-left: 4px;
+    padding: 1px;
+    vertical-align: middle;
+    text-shadow: 1px 1px 0px rgba(0,0,0,0.2);
+}
+.radio-bubble .well{
+    margin-bottom: 4px;
+    vertical-align: middle;
+}
+.radio-bubble .radio-logo{
+    font-size: 20px;
+    background: rgba(0,0,0,0.1);
+    margin: -10px;
+    padding: 13px 10px;
+    font-weight: 100;
+
+}
+.deejay{
+    background-repeat: no-repeat;
+    background-position: center 0 ;
+    position: absolute;
+    width: 80px;
+    height: 120px;
+    bottom:0;
+    right:10px;
+}
+
+.topgroups {
+    padding: 8px;
+    border-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.21);
+}
+
+.news-panel{
+    position: relative;
+}
+.news-panel .news-image{
+    height: 300px;
+    width: 100%;
+
+    background-position: center center;
+    border-radius: 3px;
+
+}
+.news-panel .news-info{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+.news-panel .news-colum{
+    position: absolute;
+    width: 100%;
+    padding: 30px;
+    font-weight: 100;
+
+}
+.news-panel .news-title{
+    text-shadow: 0;
+    font-size: 35px;
+    color: #FFF;
+    max-width: 300px;
+}
+.news-panel .news-shortstory{
+    color: #FFF;
+    text-shadow: 0;
+    font-size: 17px;
+    font-style: italic;
+
+}
+.staff .staffbox{
+    width: 48.4%;
+    height: 70px;
+    margin-left: 10px;
+    min-height: 40px;
+    background: rgba(0,0,0,0.1);
+    border-radius: 3px;
+    margin-bottom: 10px;
+    float:left;
+    position: relative;
+
+}
+.staff .staffbox .staff-img{
+    width: 70px;
+    height: 70px;
+    background-position: center -10px;
+    background-color: rgba(0,0,0,0.4);
+    border-radius: 3px;
+    float: left;
+}
+.staff .staffbox .staff-content{
+    color: #000;
+    float: left;
+    margin: 5px;
+}
+.author-news{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    right:0;
+    bottom:-1px;
+    background-position: center -15px;
+
+}
+.reactieBox{
+    background: rgba(0,0,0,0.2);
+    margin-top: 5px;
+    position: relative;
+    border-radius: 3px;
+
+}
+.reactieBox .reactieNaam{
+    color: #FFF;
+    margin-left: 60px;
+
+}
+.reactieBox .reactieDelete{
+    position: absolute;
+    right:5px;
+    top:5px;
+}
+.reactieBox .newscolumndate{
+    margin-left: 60px;
+    margin-top:-5px;
+    color:#FFF;
+}
+.reactieBox .newscolumnmessage{
+    margin-left: 60px;
+    color:#FFF;
+    background: rgba(0,0,0,0.2);
+    padding: 10px;
+    border-radius: 3px 0px 0px 0px;
+}
+.reactieBox #reactieLook{
+    position: absolute;
+    bottom:0;
+    left:0;
+    height: 65px;
+    width: 60px;
+    background-position: center -10px;
+}
+.jumbotron.vacature{
+    background: url('/templates/flunno/style/images/bg_pattern_space.gif');
+}
+.thumbnail.vacature{
+    padding:0;
+    position: relative;
+}
+.jumbotron.vacature p{
+    color: #FFF;
+}
+.thumbnail.vacature h4{
+    color: #000;
+}
+.thumbnail-text{
+    background: #BF7F3F;
+    width: 100%;
+    height: 80px;
+    color:#FFF;
+    position: relative;
+}
+.thumbnail-text .title{
+    position: absolute;
+    padding: 3px;
+    top:14px;
+    left: 10px;
+    font-size: 18px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5); 
+}
+.thumbnail-text .vaccount{
+    position: absolute;
+    bottom:10px;
+    left: 10px;
+    background: rgba(0,0,0,0.5);
+    padding: 5px;
+    border-radius: 3px;
+    font-size: 13px;
+}
+.begeleider{
+
+    width: 60px;
+    height: 80px;
+    position: absolute;
+    right:0;
+}
+.user-top-info .userHome{
+    background: url(/images/userhome/web_view_bg_cn3.gif) center center;
+    width: 120px;
+    height: 120px;
+    border-radius: 4px;
+    float:left;
+    margin-right: 10px;
+    position: relative;
+    border: 2px rgba(1,1,1,0.3) solid;
+}
+.user-top-info .userHome .userHead{
+    width: 120px;
+    height: 120px;
+    background-position: center -30px;
+    margin: -2px;
+}
+.user-top-info{
+    margin-bottom: 10px;
+    max-height: 120px!important;
+    overflow: hidden;
+}
+.user-top-info .user-top-info-box{
+    max-height: 120px!important;
+    overflow: auto;
+}
+.user-top-info .userInfo{
+
+
+}
+.user-top-info .edit{
+    background-image: url(/templates/flunno/style/images/icons/v22_4.gif);
+    background-color: rgba(255,255,255,0.7);
+    background-repeat: no-repeat;
+    border-radius: 2px;
+    background-position: center center;
+
+    width: 20px;
+    height:20px;
+    position: absolute;
+   top:2px;
+   right:2px;
+   box-shadow: 0 2px 0 1px rgba(0,0,0,0.2);
+    cursor: pointer;
+    transition: 0.4s all;
+}
+.user-top-info .edit:hover{
+    background-color: rgba(255,255,255,0.9);
+}
+.user-top-info .userInfo .name{
+    font-size: 160%;
+}
+.user-top-info .userInfo .motto{
+       position: absolute;
+width: 170px;
+
+padding: 10px;
+background: #FFF;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 3px;
+margin-left: 110px;
+margin-top: 10px;
+
+box-shadow: 0 3px 0 0 rgba(0,0,0,0.2);
+}
+.user-top-info .userInfo .motto:after{
+content: '';
+position: absolute;
+border-style: solid;
+border-width: 8px 8px 8px 0;
+border-color: transparent #FFF;
+
+display: block;
+width: 0;
+z-index: 1;
+left: -8px;
+top: 12px;
+}
+.user-top-info .online-button{
+    background: url(/templates/flunno/style/images/offline.gif) no-repeat center center;
+    width: 40px;
+    height: 16px;
+    position: absolute;
+    bottom:0;
+    right: 0;
+}
+.user-top-info .online-button.online{
+    background: url(/templates/flunno/style/images/online.gif) no-repeat center center;
+}
+
+.user-top-info-box::-webkit-scrollbar {
+    width: 8px;
+}
+.user-top-info-box::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background: #BFBFBF;
+}
+.photo-slideshow{
+    border: 2px rgba(0,0,0,0.5) solid;
+    width: 320px;
+    border-radius: 4px;
+}
+.photo-slideshow .photo{
+    width: 320px;
+    height: 320px;
+    background-position: center center;
+    border-radius: 1px;
+}
+.photo-slideshow .desc{
+    position: absolute;
+    color: #FFF;
+    top: 5px;
+    left:5px;
+}
+.gastenboek .gastenboek-berichten{
+    max-height: 300px;
+    overflow: auto;
+    margin-bottom: 10px;
+}
+.gastenboek .gastenboek-berichten::-webkit-scrollbar {
+    width: 8px;
+}
+.gastenboek .gastenboek-berichten::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background: #BFBFBF;
+}
+.gastenboek .gastenboek-berichten .gastenboek-bericht{
+    position: relative;
+}
+.gastenboek .gastenboek-berichten .gastenboek-bericht .reactie-info{
+    height: 60px;
+    margin-bottom: 10px;
+}
+.gastenboek .gastenboek-berichten .gastenboek-bericht.staff .reactie-info .author-head{
+     width: 60px;
+    height: 60px;
+    background-position: center -10px;
+    background-color:#ffa31a;
+    border-radius: 10px;
+    float:left;
+    margin-right: 10px;
+}
+.gastenboek .gastenboek-berichten .gastenboek-bericht .reactie-info .author-head{
+    width: 60px;
+    height: 60px;
+    background-position: center -10px;
+    background-color: rgba(0,0,0,0.3);
+    border-radius: 10px;
+    float:left;
+    margin-right: 10px;
+}
+.gastenboek .gastenboek-berichten .gastenboek-bericht .reactie-info .author-name{
+
+}
+.right{
+    float:right;
+}
+.gastenboek.right{
+    position: absolute;
+    top:10px;
+    right:10px;
+}
+
+.panel-title {
+	margin-top:0;
+	margin-bottom:0;
+	font-size:16px;
+	color:#fff;
+	font-weight:bold;
+}
+.panel {
+    margin-bottom: 15px;
+    background-color: #ffffff;
+    border: 3px solid transparent;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+.panel-body {
+	padding:15px;
+}
+
+.panel-heading {
+	background-color:#f3f3;
+	border-bottom:1px solid transparent;
+	border-top-right-radius:3px;
+	border-top-left-radius:3px;
+	padding:10px 15px;
+}
+.usersbox {
+    background-color: #ccc;
+    background-position: -24px -45px;
+    border-radius: 3px;
+    display: inline-block;
+    height: 64px;
+    padding-right: 1px;
+    width: 70px;
+	margin-left: 4px;
+}
+#luisteren_player {
+	width: 100%;
+    display: inline-block;
+    background: red;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    background: #dfdfdf;
+    color: #000000;
+	padding: 10px;
+}
+/* line 686, input/global.scss */
+.staffBox {
+width: 100%;
+    display: inline-block;
+    border-radius: 3px;
+    color: rgba(255,255,255,0.95);
+    }
+  /* line 698, input/global.scss */
+  .staffBox .head {
+    -webkit-filter: drop-shadow(0 1px 0 rgba(255, 255, 255, 0.9)) drop-shadow(0 -1px 0 rgba(255, 255, 255, 0.9)) drop-shadow(1px 0 0 rgba(255, 255, 255, 0.9)) drop-shadow(-1px 0 0 rgba(255, 255, 255, 0.9)); }
+  /* line 703, input/global.scss */
+  .staffBox .RightSide {
+    float: right;
+    display: inline-block;
+    padding-top: 25px;
+    text-align: left;
+    width: 87%;
+    padding-bottom: 22px; }
+    /* line 711, input/global.scss */
+    .staffBox .RightSide .nameStaff {
+      font-size: 15px;
+      font-weight: bold;
+      display: inline-block; }
+    /* line 717, input/global.scss */
+    .staffBox .RightSide .functStaff {
+      display: inline-block;
+      font-size: 11px;
+      margin-left: 3px; }

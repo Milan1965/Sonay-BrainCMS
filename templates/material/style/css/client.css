@@ -1,0 +1,145 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+html, #client {
+	height: 100%;
+	text-align: left;
+	background-color: #000;
+}
+
+#client {
+	position: absolute;
+	overflow: hidden;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+}
+
+.meMenu {
+	position: absolute;
+	top: 12px;
+	right: 200px;
+	border: 2px solid #54524d;
+	border-radius: 5px;
+	background: #24231e;
+	width: 21px;
+	height: 21px;
+	overflow: hidden;
+}
+
+.icon {
+	color: #cccccc;
+	margin-right: 8px;
+	margin-top: 2px;
+	float: right;
+}
+
+.icon:hover {
+	cursor: pointer;
+}
+
+.rules {
+	margin-top: 57px;
+	padding: 6px;
+	border-radius: 7px;
+}
+
+.rules:hover {
+	background: #403e3b;
+	cursor: pointer;
+}
+
+.imgContainer {
+	width: 40px;
+	height: 110px;
+	margin-top: 21px;
+	float: right;
+	margin-right: 13px;
+}
+
+
+.alert {
+	background: #E9E9E1;
+	height: 500px;
+	border: 1px solid black;
+	border-bottom: 2px solid black;
+	border-radius: 10px;
+	width: 600px;
+	margin: 0px 15px;
+	font-family: Ubuntu;
+	box-shadow: inset 0px 0px 0px 1px white, 0px 0px 5px 0px black;
+	color: #666666;
+	top: 35%;
+	left: 40%;
+	margin-top: -90px;
+	margin-left: -150px;
+	position: absolute;
+	display: none;
+}
+.alert > .head {
+	height: 31px;
+	background: #3F4141;
+	border-radius: 10px 10px 0px 0px;
+	border: 2px solid #4B4B4B;
+	border-bottom: 1px solid black;
+	padding: 0 0 0 10px;
+	font-weight: 300;
+	font-size: 13px;
+	line-height: 30px;
+	color: #ffffff;	
+	text-align: center;
+}
+.alert > #close {
+	background-image: url(../img/close_normal.png);
+	width: 19px;
+	cursor: pointer;
+	background-repeat: no-repeat;
+	background-position: 0 center;
+	height: 31px;
+	float: right;
+	margin-right: 10px;	
+}
+.alert > #close:hover {
+	background-image: url(../img/close_normal_hover.png);	
+}
+
+.alertContainer {
+	width: 588px;
+	height: 410px;
+	background: #fff;
+	border: 1px solid #444444;
+	border-radius: 6px;
+	margin: 5px;
+	overflow: auto;
+}
+
+.okBtn {
+	width: 30px;
+	height: 26px;
+	margin: 10px auto;
+	background: url('../img/okBtn.png');
+}
+
+.okBtn:hover {
+	background: url('../img/okBtnHover.png');
+	cursor: pointer;
+}
+
+.alertContainer > div > h1 {
+	color: #000;
+	font-size: 18px;
+}
+
+.alertContainer > div > p {
+	color: #000;
+	font-size: 13px;
+}
+
+.subPara {
+	margin-left: 15px;
+	font-size: 11px;
+	color: #000000;
+}

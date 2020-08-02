@@ -1,0 +1,56 @@
+.radioButtonOrange {
+    background-color: rgb(237,112,35);
+}
+
+.radioButtonBlue {
+    background-color: rgb(55,170,204);
+}
+
+.radioButtonRed {
+    background-color: rgb(224,92,97);
+}
+
+.radioButtonGreen {
+    background-color: #5cb85c;
+}
+
+.radioButton {
+    color: white;
+    border: 0;
+    padding: 4px 0px 4px 0px;
+    margin-right: 0px;
+    width: 15.5%;
+    outline: none;
+    border-radius: 3px;
+}
+
+input, button, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
+button, html input[type="button"], input[type="reset"], input[type="submit"] {
+    -webkit-appearance: button;
+    cursor: pointer;
+}
+
+button, select {
+    text-transform: none;
+}
+
+button {
+    overflow: visible;
+}
+
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font: inherit;
+    color: inherit;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}

@@ -1,0 +1,147 @@
+/* FOOTER CSS */
+
+.myf a {
+    color: #260F26;
+    font-weight: 400;
+}
+.myf a:hover,
+.myf a:focus {
+    color: #ccc;
+    text-decoration: none;
+}
+.myf a,
+.myf a:focus,
+.myf a:hover,
+.myf a:active,
+.myf button,
+.myf button:hover {
+    outline: 0 !important;
+}
+.myf .bg-color {
+    background: #923E0D;
+    width: 100%;
+    height: auto;
+    display: block;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.myf footer {
+	margin-top: 20px;
+    font-weight: 400;
+    color: #eaeaea;
+}
+.myf footer a {
+    color: #f0f0f0;
+}
+.myf footer a:hover,
+.myf footer a:focus {
+    color: #f0f0f0;
+    text-decoration: underline;
+}
+.myf footer .container {
+    padding-top: 30px;
+    padding-bottom: 30px;
+	position: relative;
+	margin: auto;
+	width: 930px;
+}
+@media screen and (max-width: 768px) {
+    .myf footer .container {
+        padding: 30px 15px;
+    }
+}
+.myf .footer-heading {
+    margin: 0 0 13px 0;
+    font-size: 16px;
+    line-height: 2;
+    color: #f0f0f0;
+    letter-spacing: 2px;
+}
+h3.footer-heading:first-letter {
+    border-bottom: 4px double #ccc;
+}
+.myf .footer-nav > li {
+    margin-bottom: 10px;
+}
+.myf .copyright {
+    padding: 15px 0;
+    background-color: rgba(12, 12, 12, 0.2);
+    font-size: 12px;
+    line-height: 10px;
+    font-weight: 400;
+}
+.myf ul.social-icons li a {
+    display: block;
+    width: 47px;
+    height: 42px;
+    font-size: 24px;
+    color: #f0f0f0;
+    text-align: center;
+    font-weight: 400;
+}
+.myf ul.social-icons li a.facebook-bg:hover,
+.myf ul.social-icons li a.facebook-bg:focus {
+    background-color: #344f98;
+    -moz-box-shadow: 0 0 3px #000;
+    -webkit-box-shadow: 0 0 3px #000;
+    box-shadow: 0 0 3px #000;
+}
+.myf ul.social-icons li a.twitter-bg:hover,
+.myf ul.social-icons li a.twitter-bg:focus {
+    background-color: #138bee;
+	-moz-box-shadow: 0 0 3px #000;
+    -webkit-box-shadow: 0 0 3px #000;
+    box-shadow: 0 0 3px #000;
+}
+.myf ul.social-icons li a.instagram-bg:hover,
+.myf ul.social-icons li a.instagram-bg:focus {
+    background-color: #ff5e00;
+	-moz-box-shadow: 0 0 3px #000;
+    -webkit-box-shadow: 0 0 3px #000;
+    box-shadow: 0 0 3px #000;
+}
+.myf ul.social-icons li a i {
+    position: relative;
+    top: 8px;
+}
+.myf .form-control {
+    color: #f0f0f0;
+}
+.myf .social-connect {
+    padding-top: 15px;
+}
+.myf .row {
+    margin-bottom: 0px;
+}
+.myf .list-inline {
+    display: block;
+}
+.myf .list-inline li {
+    display: inline-block;
+}
+.myf .list-inline li:after {
+    margin: 0 10px;
+}
+.myf .input-field label {
+    color: #fff;
+}
+.myf .input-field input[type=text]:focus + label {
+    color: #fff;
+}
+.myf .input-field input[type=text]:focus {
+    border-bottom: 1px solid #fff;
+    box-shadow: 0 1px 0 0 #fff;
+}
+.myf .input-field input[type=text].valid {
+    border-bottom: 1px solid #fff;
+    box-shadow: 0 1px 0 0 #fff;
+}
+.myf .input-field input[type=text].invalid {
+    border-bottom: 1px solid #fff;
+    box-shadow: 0 1px 0 0 #fff;
+}
+.myf .input-field .prefix.active {
+    color: #fff;
+}

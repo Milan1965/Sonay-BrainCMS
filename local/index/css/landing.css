@@ -1,0 +1,483 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,500,300,700);@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800);
+body{
+	    margin: 0;
+	    background: #F3F3F3;
+	    color: #878787;
+	    font-family: Open Sans;
+        font-size: 13px;
+        width: 100%;
+        min-width: 1200px;
+}
+div#landing{
+        min-width: 1100px;
+        padding: 0px 0px 150px 0px;
+}
+div#landing .top_section{
+	    margin: 0px;
+	    background: #3BB2D0;
+	    color: #FFFFFF;
+        height: 350px;
+        width: 100%;
+}
+div#landing .background_left{
+	    background: url('/local/index/images/doom_backgroud_left.png') left top;
+        background-repeat: no-repeat;
+        height: 389px;
+        width: 470px;
+        position: absolute;
+        left: -144px;
+        top: -40px;
+        z-index: 20;
+}
+div#landing .top_section .background_top #contain .logo_placeholder{
+        width: 0px;
+        height: 0px;
+        display: block;
+        float: left;
+        margin: 17px 0px 0px 40px;
+}
+div#landing .top_section .background_top #contain .logo_placeholder .logo{
+        background: url('/logooo.png') left top;
+        background-repeat: no-repeat;
+		margin-left: -40px;
+        width: 203px;
+        height: 82px;
+}
+div#landing .background_top{
+        position: relative;
+        left: 0px;
+        top: 0px;
+	z-index: 10;
+        height: 60px;
+        width: 100%;
+        border-bottom: 1.1px solid #35A0BB;
+        box-shadow: 0px 1px 0px #62C1D9;
+}
+div#mid_section #contain{
+        text-shadow: 0px 1px 1px #256F81;
+        min-width: 900px;
+} 
+div#bottom_section{
+        display: block;
+        position: relative;
+        z-index: 60;
+        margin: 30px 0px 0px 0px;
+}
+div#bottom_section #contain{
+        text-shadow: 0px 1px 1px #256F81;
+        min-width: 900px;
+}
+div#bottom_section #contain .event_box{
+        width: 28%;
+        margin: 0px 0px 3px 58px;
+        border: 1px solid #9c4485;
+        display: inline-block;
+        background: url('../images/mega_fp_event_bg.png') 100% -23px #4F1840;
+        background-repeat: no-repeat;
+        height: 165px;
+        border-radius: 5px;
+        -webkit-box-shadow: 0 0 1px 1px #3B072D;
+        -moz-box-shadow: 0 0 1px 1px #3B072D;
+        box-shadow: 0 0 1px 1px #3B072D;
+        float:left;
+}
+div#bottom_section #contain .event_box .title{
+        font-size: 15px;
+        display: block;
+        margin: 12px 0px 0px 30px;
+        color: #EDEBD4;
+        text-shadow: 0px 1px 0px #4f1840;
+        text-transform: capitalize;
+        font-family: Ubuntu;
+        font-weight: 900;
+}
+div#bottom_section #contain .event_box .information{
+        text-shadow: 0px 1px 0px #2F0323;
+        display: block;
+        padding: 10px;
+        margin: 5px 85px 0px 21px;
+        font-size: 12px;
+}
+div#bottom_section #contain .event_box .yellow_go_to_button{
+        width: 45%;
+        padding: 5px;
+        font-size: 12px;
+        display: block;
+        margin: 10px 0px 0px 30px;
+        border-radius: 3px;
+        border: 1px solid #fff3ab;
+        color: #FFF;
+        text-align: center;
+        font-weight: 700;
+        text-transform: capitalize;
+        text-decoration: none;
+        box-shadow: 0 0 1px 1px #501E42;
+        text-shadow: 0px 1px 1px #A48D00;
+        background: #fce137;
+        opacity: 0.9;
+        filter: alpha(opacity=90); /* For IE8 and earlier */
+}
+div#bottom_section #contain .event_box .yellow_go_to_button:hover{
+        opacity: 1;
+        filter: alpha(opacity=100); /* For IE8 and earlier */
+}
+div#bottom_section #contain .credit_box{
+        width: 28%;
+        margin: 0px 0px 3px 58px;
+        border: 1px solid #feb259;
+        display: inline-block;
+        background: url('../images/mega_fp_credits_bg.png') 100% -23px #EB8617;
+        background-repeat: no-repeat;
+        height: 165px;
+        border-radius: 5px;
+        -webkit-box-shadow: 0 0 1px 1px #C67924;
+        -moz-box-shadow: 0 0 1px 1px #C67924;
+        box-shadow: 0 0 1px 1px #C67924;
+        float: left;
+}
+div#bottom_section #contain .credit_box .title{
+        font-size: 15px;
+        display: block;
+        margin: 12px 0px 0px 30px;
+        color: #784309;
+        text-shadow: 0px 1px 0px #ffba6b;
+        text-transform: uppercase;
+        font-family: Ubuntu;
+        font-weight: 900;
+}
+div#bottom_section #contain .credit_box .information{
+        text-shadow: 0px 1px 0px #9F5500;
+        display: block;
+        padding: 10px;
+        margin: 5px 116px 0px 21px;
+        font-size: 12px;
+}
+div#bottom_section #contain .credit_box .information b{
+       display:block;
+}
+div#bottom_section #contain .social_box{
+        width: 28%;
+        margin: 0px 0px 3px 35px;
+        border: 1px solid #87d3ff;
+        display: inline-block;
+        background: url('../images/mega_fp_social_bg.png') 360% -23px #4EB2ED;
+        background-repeat: no-repeat;
+        height: 165px;
+        border-radius: 5px;
+        -webkit-box-shadow: 0 0 1px 1px #0D4C5C;
+        -moz-box-shadow: 0 0 1px 1px #0D4C5C;
+        box-shadow: 0 0 1px 1px #0D4C5C;
+        float: left;
+} 
+div#bottom_section #contain .social_box .light_go_to_button{
+        width: 45%;
+        padding: 5px;
+        font-size: 12px;
+        display: block;
+        margin: 10px 0px 0px 30px;
+        border-radius: 19px;
+        border: 2px solid #fff;
+        color: #fff;
+        text-align: center;
+        font-weight: 700;
+        text-transform: capitalize;
+        text-decoration: none;
+        box-shadow: 0 0 1px 1px #8C8C8C;
+        text-shadow: 0px 0px 1px #000000;
+}
+div#bottom_section #contain .social_box .yellow_go_to_button{
+        width: 45%;
+        padding: 5px;
+        font-size: 12px;
+        display: block;
+        margin: 10px 0px 0px 30px;
+        border-radius: 3px;
+        border: 1px solid #fff3ab;
+        color: #fff;
+        text-align: center;
+        font-weight: 700;
+        text-transform: capitalize;
+        text-decoration: none;
+        box-shadow: 0 0 1px 1px #666768;;
+        text-shadow: 0px 1px 1px #A48D02;
+        background: #fce137;
+        opacity: 0.9;
+        filter: alpha(opacity=90); /* For IE8 and earlier */
+}
+div#bottom_section #contain .social_box .yellow_go_to_button:hover{
+        opacity: 1;
+        filter: alpha(opacity=100); /* For IE8 and earlier */
+}
+div#bottom_section #contain .social_box .light_go_to_button i{
+        margin: 0px 0px 0px 8px;
+        font-size: 14px;
+        background: #f1fbff;
+        padding: 0px 7px 0px 3px;
+        color: #009ee4;
+        text-shadow: 0px 1px 0px #E4ECEF;
+        text-align: center;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        border-radius: 10px;
+        border: 1px solid #EDEDED;
+        width: 6px;
+        height: 16px;
+        box-shadow: 0px 0px 2px 1px #05597e;
+        display: inline-block;
+        line-height: 14px;
+}
+div#bottom_section #contain .social_box .title{
+        font-size: 15px;
+        display: block;
+        margin: 12px 0px 0px 30px;
+        color: #EDEDFF;
+        text-shadow: 0px 1px 0px #006298;
+        text-transform: capitalize;
+        font-family: Ubuntu;
+        font-weight: 900;
+}
+div#bottom_section #contain .social_box .information{
+        text-shadow: 0px 1px 0px #2F98B3;
+        display: block;
+        padding: 10px;
+        margin: 5px 98px 0px 21px;
+        font-size: 12px;
+}
+div#contain .login_right_section{
+        display:block;
+        float:left;
+        width: 48%;
+        font-family: Ubuntu;
+}
+div#contain .login_right_section .login_area{
+        display:block;
+        font-size: 12px;
+        width: 75%;
+        float:right;
+}
+div#contain .login_right_section .login_area .error_rounded{
+        display: block;
+        background: #e94c4c;
+        margin: -15px 8px 7px 0px;
+        border: 1px solid #ce1f1f;
+        padding: 3px 0px 3px 10px;
+        border-radius: 3px;
+        box-shadow: 0px 0px 1px 0px #005b72;
+}
+div#contain .login_right_section .login_area .error_rounded .alert_text{
+        text-shadow: 0px 1px 0px #810000;
+        font-weight: 600;
+        font-family: Open Sans;
+}
+div#contain .login_right_section .login_area a{
+        text-decoration: none;
+        color:#fff;
+}
+div#contain .login_right_section .login_area .forgetPassword{
+        display: inline-block;
+        font-size: 12px;
+        margin: 30px 0px 0px 7px;
+        width: 220px;
+        text-transform: uppercase;
+}
+div#contain .login_right_section .login_area .g_sbtn{
+        background: #7ECF73;
+        padding: 10px;
+        border-radius: 3px;
+        margin: 30px 0px 0px 0px;
+        text-align: center;
+        width: 40%;
+        text-shadow: 0px 1px 0px #094500;
+        border: 1px solid #469cb3;
+        box-shadow: 0px 0px 2px #a6cfda;
+        color: #fff;
+        font-weight: 600;
+        font-family: Ubuntu;
+        font-size: 13px;
+        cursor: pointer;
+}
+div#contain .login_right_section .login_area .g_sbtn:hover{
+        background: #7CC971;
+}
+div#contain .login_right_section .login_area .icon-input-user{
+        display: inline-block;
+        border-color: #308095;
+        border-style: solid;
+        border-width: 2px;
+        border-radius: 3px;
+        background: #CCEDF4;
+        margin: 0px 11px 0px 0px;
+}     
+div#contain .login_right_section .login_area .icon-input-user .usericon{
+        display: inline-block;
+        background: url('../images/icon_user.png');
+        background-repeat: no-repeat;
+        height: 14px;
+        width: 14px;
+        padding: 0px 3px 0px 5px;
+        margin: 0px 0px 0px 10px;
+    }
+div#contain .login_right_section .login_area .icon-input-lock{
+        display: inline-block;
+        border-color: #308095;
+        border-style: solid;
+        border-width: 2px;
+        border-radius: 3px;
+        background: #EEEEEE;
+    }
+div#contain .login_right_section .login_area .icon-input-lock .lockicon{
+        display: inline-block;
+        background: url('../images/icon_lock.png');
+        background-repeat: no-repeat;
+        height: 14px;
+        width: 14px;
+        padding: 0px 3px 0px 5px;
+        margin: 0px 0px 0px 10px;
+    }
+div#contain .login_right_section .login_area .creduser{
+        background: #fff;
+        border: 0px;
+        height: 35px;
+        width: 147px;
+        box-shadow: 0px 0px 1px #035d71;
+        color: #6eb8c3;
+        font-weight: 600;
+        font-family: Ubuntu;
+        font-size: 13px;
+        text-indent: 8px;
+}
+div#contain .login_right_section .login_area .credpass{
+        background: #fff;
+        border: 0px;
+        height: 35px;
+        width: 147px;
+        box-shadow: 0px 0px 1px #035d71;
+        color: #959595;
+        font-weight: 600;
+        font-family: Ubuntu;
+        font-size: 13px;
+        text-indent: 8px;
+}
+div#contain .login_right_section h1{
+        font-size: 18px;
+        font-weight: 700;
+        margin: 50px 0px 25px 0px;
+        width: 75%;
+        float: right;
+}
+div#contain .register_left_section{
+        display:block;
+        float:left;
+        width: 48%;
+        padding: 0px 0px 0px 35px;
+}
+div#contain .register_left_section .registerButton{
+        background: #7ECF73;
+        padding: 10px;
+        border-radius: 3px;
+        display: block;
+        margin: 30px 0px 0px 0px;
+        text-align: center;
+        width: 40%;
+        text-shadow: 0px 1px 0px #094500;
+        border: 1px solid #469cb3;
+        box-shadow: 0px 0px 2px #a6cfda;
+        color: #fff;
+        font-weight: 600;
+        font-family: Ubuntu;
+        font-size: 13px;
+}
+div#contain .register_left_section a.registerButton{
+        text-decoration: none;
+}
+div#contain .register_left_section .registerButton:hover{
+        background: #7CC971;
+}
+div#contain .register_left_section .welcome_infomation{
+        display:block;
+        font-size: 12px;
+        width: 75%;
+}
+div#contain .register_left_section h1{
+        font-size: 18px;
+        font-weight: 700;
+        margin: 50px 0px 25px 0px;
+}
+div#contain{
+	width: 1100px;
+	margin: 0 auto;
+}
+div#landing .background_top span.online_status{
+	float: right;
+        line-height: 50px;
+        font-family: Ubuntu;
+        font-weight: 700;
+        font-size: 12px;
+        text-shadow: 0px 1px 1px #256F81;
+        text-transform: uppercase;
+        /* background: #FFFFFF1A; */
+        padding: 0px 15px 0px 15px;
+        border-radius: 3px;
+        margin: 5px 0px 0px 0px;
+        height: 50px;
+}
+div#landing .background_top span.online_status_icon{
+	background: url('../images/status_hotel_icon.png') left top;
+	height:25px;
+	width:25px;
+	float: left;
+        margin: 14px 5px 0px -1px;
+}
+div#footer_placeholder{
+        min-width: 1100px;
+        margin: 20px 0px 0px 0px;
+} 
+div#footer_placeholder .information_section{
+        margin: 0px 0px 0px 35px;
+        width: 70%;
+        display: inline-block;
+        font-size: 0px;
+}
+div#footer_placeholder .information_section a{
+        font-weight: 700;
+        text-decoration: none;
+        color: #AA6D6D;
+        text-shadow: 0px 1px 1px #fff;
+        margin: 0px 20px 0px 0px;
+        display: inline-block;
+        font-size: 12.5px;
+}
+div#footer_placeholder .information_section .smallprint{
+        display: block;
+        padding: 9px 0px 5px 0px; 
+        font-size: 12px;       
+}
+div#footer_placeholder .information_section .smallprint a{
+        color: #AA6D6D;
+        text-shadow: 0px 1px 1px #fff;
+        margin: 0px;
+        display: inline-block;
+        font-size: 12px;
+}
+div#footer_placeholder .information_section .smallprint a:hover, #footer_placeholder .information_section a:hover{
+        color: #984B4B;
+}
+div#footer_placeholder .poweredby_section{
+        width: 25%;
+        float: right;
+}
+div#footer_placeholder .poweredby_section .MEGA_logo{
+        background: url('/local/index/images/theme/mega/mega-logo.png') no-repeat;
+        height: 30px;
+        width: 105px;
+        display: block;
+        float: right;
+        margin: 49px 17px 0px 0px;
+        opacity: 0.8;
+        filter: alpha(opacity=80); /* For IE8 and earlier */
+        cursor: pointer;
+}
+div#footer_placeholder .poweredby_section .MEGA_logo:hover{
+        opacity: 1;
+        filter: alpha(opacity=100); /* For IE8 and earlier */
+}

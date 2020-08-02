@@ -1,0 +1,24 @@
+﻿Navigeer langs kamers
+<span class="padding-top"><br></span><h3>Kamers vinden</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Gebruik de navigator om de wondere wereld van Gold te verkennen! Eenvoudig zoeken naar specifieke kamers met filters zoals kamernaam, kamereigenaar, groepsnaam en labels.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>De vier tabs</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>De vier tabbladen laten verschillende categorieën zien van het hotel; Ruimtes, gastenkamers, evenementen en mijn kamers. Elk tabblad laat iets anders zien.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Publieke ruimtes</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Dit zijn de kamers die beschikbaar zijn gemaakt door Gold, zoals de openbare ruimtes, campagne kamers en activiteiten kamers. Je vindt ook 'Staff Picks - topkamers' in dit tabblad. Dit zijn door de Gold staff aanbevolen kamers die gebouwd zijn door Hazen.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Gastenkamers</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>In dit tabblad kan je zoeken naar elke kamer - tenzij de kamer is ingesteld op "onzichtbaar", natuurlijk! De resultaten worden getoond op basis van hun doel.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Evenementen</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Onder het tabblad evenementen kan je kamers vinden waar Gold speciale events organiseren. De resultaten worden ingedeeld op soort event (lopende events).</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Mijn kamers</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Onder deze tab vind je al je eigen kamer en daarnaast ook andere kamers zoals kamers van je vrienden, kamers die je vaak bezoekt en groepkamers waar je onderdeel van uit maakt.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Zoeken</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Kies het juiste tabblad en selecteer op welke punten je wilt filteren. Daarna voer je de tekst in waarnaar je op zoek bent en klik je op enter! Je zoekresultaten zullen direct laden.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Zoekresultaten</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>De meeste resultaten van een zoekopdracht zullen een lijst van meerdere kamers in verschillende categorieën laten zien. De topresultaten van je zoekopdracht worden automatisch weergegeven. Je kan de categorie uitbreiden om nog meer resultaten te zien!</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Je kan er voor kiezen om meer of minder resultaten weer te geven in de verschillende categorieën. Klik daar voor op de <b>+</b> en <b>-</b> tekens in de categorie header. Je kan er ook voor kiezen om elke categorie te bekijken in een lijst modus of de thumbnail modus. Bovendien worden al je keuzes automatisch opgeslagen en onthouden voor de volgende keer! </p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Terug gaan</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Je kan op elk gewenst moment terugkeren naar je zoekresultaten met behulp van de knop in de linker bovenhoek.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Zoekopdrachten opslaan</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Om snel en simpel te bekijken wat er allemaal gaande is in het hotel (gerelateerd aan je zoekopdrachten en intresses), kan je elke zoekopdracht met bijbehorende filteroptie opslaan. Gebruik de oranje <b>bliksem</b> in de linkerkolom om je zoekopdracht op te slaan. </p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Vensterformaat aanpassen</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Het vensterformaat kan worden aangepast via de rechter benedenhoek en gesleept worden tot aan de top. Je kan het linker paneel laten zien of verbergen via de grijze knop. Alle keuzes worden automatisch opgeslagen en onthouden voor de volgende keer!</p><span class="padding-bottom"><br></span>

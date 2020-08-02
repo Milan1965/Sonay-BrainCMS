@@ -1,0 +1,17 @@
+Piñatas
+<span class="padding-top"></span><h3>Hoe werkt het openen van een Piñata?</h3><span class="padding-top"></span>
+<span class="padding-top"><br></span><p>Je kunt een Piñata openen door het Piñata-stok effect te gebruiken. Deze kun je aanschaffen in de shop of activeren via de command <b>:enable 158</b>. Loop vervolgens onder de Piñata door en, hup, hop, open, prijs! </p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Piñata Groen</h3><span class="padding-bottom"></span>
+<span class="padding-top" vspace="2"><br></span><p>Sla deze Piñata volledig tot moes en ontvang de leukste exclusieve badges. Er zijn er momenteel 24 te winnen, hier komen er in de toekomst uiteraard meer bij.</p><br>
+<img src="https://goldhotel.nl/bibliotheek/c_images/habbopages/badges_1.png" vspace="2" align="left" hspace="2"/><span class="padding-top"><br></span><br><span class="padding-bottom"><br></span><br>
+<img src="https://goldhotel.nl/bibliotheek/c_images/habbopages/badges_2.png" vspace="2" align="left" hspace="2"/><span class="padding-top"><br></span><br><span class="padding-bottom"><br></span><br>
+<img src="https://goldhotel.nl/bibliotheek/c_images/habbopages/badges_3.png" vspace="2" align="left" hspace="2"/><span class="padding-top"><br></span><br><span class="padding-bottom"><br></span><br>
+<br><br><br>
+<span class="padding-top"><br></span><h3>Piñata Oranje</h3><span class="padding-bottom"></span>
+<span class="padding-top" vspace="2"><br></span><p>Meubi, Diamanten, Meubi, Diamanten! Ja zeker deze Piñatas zitten stampvol met (extreem) zeldzame meubi's en waardevolle Diamanten!</p><br>
+<img src="https://goldhotel.nl/bibliotheek/c_images/habbopages/meubi_1.png" vspace="2" align="left" hspace="2"/><span class="padding-top"><br></span><br><span class="padding-bottom"><br></span><br>
+<img src="https://goldhotel.nl/bibliotheek/c_images/habbopages/meubi_2.png" vspace="2" align="left" hspace="2"/><span class="padding-top"><br></span><br><span class="padding-bottom"><br></span><br><br>
+<br>
+<span class="padding-top"><br></span><h3>Piñata Blauw</h3><span class="padding-bottom"></span>
+<span class="padding-top" vspace="2"><br></span><p>Dagobert Duck is er gek op, blinkende, mooie, scherpe Diamanten! Schaf dit exemplaar van Piñatas nu aan en ontvang of helemaal niks, of erg forse prijzen!</p><br>
+<img src="https://goldhotel.nl/bibliotheek/c_images/habbopages/diamanten_1.png" vspace="2" align="left" hspace="2"/><span class="padding-top"><br></span><br><span class="padding-bottom"><br></span><br><br><br>

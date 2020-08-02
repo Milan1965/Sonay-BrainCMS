@@ -1,0 +1,60 @@
+﻿Update een item
+Ga allereerst op een meubi staan. (Op het uiterste linksbovenste punt, dit wordt gezien als "het dominante hokje" van een meubi - voor je begint).<br><br>
+<span class="padding-top"></span><h3>Wat valt er te updaten?</h3><span class="padding-top"></span>
+<span class="padding-top"><br></span>
+<p>
+- :item <b>length</b> nummer<br>
+- :item <b>width</b> nummer<br>
+- :item <b>height</b> decimaalnummer<br>
+- :item <b>marktplaats</b> ja/nee<br>
+- :item <b>cansit</b> ja/nee<br>
+- :item <b>canwalk</b> ja/nee<br>
+- :item <b>canstack</b> ja/nee<br>
+- :item <b>interaction</b> interaction<br>
+- :item <b>interactioncount</b> nummer<br>
+</p>
+
+<span class="padding-top"></span><h3>Meest voorkomende interactions</h3><span class="padding-top"></span>
+<span class="padding-top"><br></span>
+<p>
+Het woord <b>interaction</b> staat voor interactie, dit houdt in wat voor interactie er moet gebeuren met een bepaald meubi.<br><br>
+- :item interaction <b>default</b> voor een standaard meubi<br>
+- :item interaction <b>bed</b> voor een bed<br>
+- :item interaction <b>dice</b> voor een dice/dobbel<br>
+- :item interaction <b>gate</b> voor een poort<br>
+- :item interaction <b>lowpool</b> voor een enkels-waterperkje<br>
+- :item interaction <b>lovelock</b> voor een liefdesslot<br>
+- :item interaction <b>roller</b> voor een roller<br>
+- :item interaction <b>teleport</b> voor een teleporter<br>
+- :item interaction <b>vendingmachine</b> voor een automaat<br>
+- :item interaction <b>water</b> voor een waterperkje<br>
+</p>
+
+<span class="padding-top"></span><h3>Voorbeeld</h3><span class="padding-top"></span>
+<span class="padding-top"><br></span>
+<p>
+Het meubi <b>table_norja_med*3</b> is een tafel van 2x2 hokken. Helaas lijkt het erop dat het 1x1 ingesteld staat - Het is immers mogelijk om in de andere drie hokken van de tafel te lopen.<br>
+<br>
+De <b>width</b> en <b>length</b> moeten dus veranderd worden naar 2x2:<br><br>
+- :item <b>length 2</b><br>
+- :item <b>width 2</b><br><br>
+
+Uiteraard is het een tafel, en moet erop kunnen worden gestapeld.<br>
+- :item <b>canstack ja</b><br><br>
+
+Maar nu wordt het meubi gestapeld op de grond en niet <u>op</u> de tafel.<br>
+- :item <b>height 1</b><br>
+</p>
+
+<span class="padding-top"></span><h3>Hoogtes uitleg</h3><span class="padding-top"></span>
+<span class="padding-top"><br></span>
+<p>
+- Hoogte moet <b>1</b> worden gebruik dus <b>1</b> en niet <b>1.00</b><br>
+- Hoogte moet <b>1.5</b> worden gebruik dus <b>1.5</b> en niet <b>1.50</b><br>
+- Hoogte moet <b>1.05</b> worden gebruik dus <b>1.05</b> en niet <b>1.0500</b><br>
+- Hoogte moet <b>1.57</b> worden gebruik dus <b>1.57</b> en niet <b>1.5700</b><br>
+- Hoogte moet <b>0.3</b> worden gebruik dus <b>0.3</b> en niet <b>0.30</b><br><br>
+-Je hebt nooit een langer getal dan <b>1.57</b> een verschil tussen <b>1.57</b> en <b>1.578</b> merk je niet.
+<br><br>
+Let op: Na het aanpassen van een meubi typ altijd <b>:update items</b> en zet een meubi overnieuw in de kamer (of typ :unload).
+</p>

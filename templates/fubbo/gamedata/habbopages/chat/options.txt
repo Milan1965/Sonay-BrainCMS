@@ -1,0 +1,13 @@
+Chat Opties
+<span class="padding-top"><br></span><h1>Chat Opties</h1><span class="padding-top"><br></span>
+<span class="padding-top"><br></span><p>Gold Hotel heeft een groot aantal verschillende kamers waar mensen kunnen chatten. Iedereen heeft zo zijn eigen voorkeur voor chat stylen. Daarom heeft het hotel een groot aantal opties hoe de chatfunctie gebruikt kan worden. Deze opties zijn grotendeels hetzelfde, maar verschillen toch wat van elkaar om zo een meer gepersonaliseerde chat te bieden.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>Zin per zin style</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Met de zin per zin style worden alle chats in de kamer van beneden naar boven gepresenteerd. Dit is goed om te zien wie wat eerst heeft gezegd, maar in grotere kamers kan dit een nadeel zijn aangezien alle losse gesprekken door elkaar worden laten zien. </p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><b>Free Flow style</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Met de Free Flow style is het mogelijk om alle verschillende chats, die niet te dicht bij elkaar plaatsvinden goed te kunnen lezen. Met deze chat instelling zie je de chats van andere die dicht bij jou staan bij elkaar komen om zo automatisch een "groep chat" te vormen.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Kamereigenaars</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Alleen de kamereigenaar heeft controle over welke chat type er gebruikt kan worden in zijn of haar kamer, de snelheid van de chat en de grootte van de tekstballonnen. Zij hebben ook de mogelijkheid om het gehoor bereik in te stellen van 3 tegels tot 90.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h3>Oude chat</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Voor de old-skool Hazen bestaat de mogelijkheid om terug te switchen naar de "oude" versie van de chat. Free-flow en scroll instellingen worden dan overgeschreven door de "Classic" chat instellingen maar hebben geen effecten. Het gehoor bereik is nog wel actief. Deze klassieke instelling is alleen beschikbaar voor degene die er voor kiezen om hiervan gebruik te maken.</p><span class="padding-bottom"><br></span>
+<img src="http://images-eussl.habbo.com/c_images/reception/3b505e.png" width="1000" height="1"/><br>
+<span class="padding-top"><br></span><p>Zie ook: <a href="event:habbopages/chat/chatting">Chatten in Gold</a></p><span class="padding-bottom"><br></span>

@@ -1,0 +1,28 @@
+Speciale chat commando's
+<span class="padding-top"><br></span><p>Zie ook: <a href="event:habbopages/chat/chatting">Chatten in Gold</a></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h1>Speciale chat commando's</h1><span class="padding-top"><br></span>
+<span class="padding-top"><br></span><p>Er bestaan verschillende manieren en codes om het chatten in Gold nog aangenamer te maken. Leer ze allemaal!</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Typ<b> :commands</b> om o.a jouw spraakcommando's te bekijken.</p>
+<span class="padding-top"><br></span><h2>Handige spraak commando's</h2><span class="padding-top"><br></span>
+<p class="bullet-item"> -&nbsp;<b>:fluister Gold</b> Fluister naar een andere Gold</p>
+<p class="bullet-item"> -&nbsp;<b>:dier lijst</b> Transformeer in een huisdier</p>
+<p class="bullet-item"> -&nbsp;<b>:faceless</b> Slendermen!</p>
+<p class="bullet-item"> -&nbsp;<b>:stats</b> Check jouw hotel statistieken</p>
+<p class="bullet-item"> -&nbsp;<b>:kamer lijst</b> Verander de kamer configuratie</p>
+<p class="bullet-item"> -&nbsp;<b>:dans 1/4</b> Dans in een kamer</p>
+<p class="bullet-item"> -&nbsp;<b>:zit</b> Zitten op de grond</p>
+<p class="bullet-item"> -&nbsp;<b>:lig</b> Liggen op de grond</p>
+<p class="bullet-item"> -&nbsp;<b>:sta</b> Staan op de grond</p>
+<p class="bullet-item"> -&nbsp;<b>:push</b> Duw een Gold van je af</p>
+<p class="bullet-item"> -&nbsp;<b>:pull</b> Trek een Gold naar je toe</p>
+
+<span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h2>Enkel voor Premium leden</h2><span class="padding-bottom"><br></span>
+<p class="bullet-item"> -&nbsp;<b>:bcfloor</b> Verander de kamer map</p>
+<p class="bullet-item"> -&nbsp;<b>:flagme</b> Verander je Gold naam</p>
+
+<span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h2>Speciale tekens met alt-codes!</h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Voor nog meer plezier en fun kan je speciale tekens oproepen door de alt-toets en de volgende codes in te drukken./p><span class="padding-bottom"><br></span>
+<img src="https://habboo-a.akamaihd.net/c_images/habbopages/chat_altcodes.png" height="295" hspace="1" vspace="1"/><font size="12px"><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p></font><p><font size="-1"> </font></p><img src="https://images-eussl.habbo.com/c_images/reception/3b505e.png" width="1000" height="1"/><br>
+<span class="padding-top"><br></span><p>Zie ook: <a href="event:habbopages/chat/options">Chat Opties</a></p><span class="padding-bottom"><br></span>

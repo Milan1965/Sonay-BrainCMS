@@ -1,8 +1,18 @@
 RewriteEngine On
 
-RewriteRule ^([a-zA-Z0-9_-]+)(|/)$ index.php?url=$1
-RewriteRule ^news/([a-zA-Z0-9_-]+)(|/)$ index.php?url=news&id=$1
-RewriteRule ^home/([a-zA-Z0-9_-]+)(|/)$ index.php?url=home&user=$1
-RewriteRule ^swf/habbo-imaging/badge/([a-zA-Z0-9_-]+)(|/)$ swf/habbo-imaging/badge.php?badge=$1
-RewriteRule ^register/([a-zA-Z0-9_-]+)(|/)$ index.php?url=register&userref=$1
-RewriteRule ^newpassword/([a-zA-Z0-9_-]+)(|/)$ index.php?url=newpassword&key=$1
+RewriteRule ^([a-zA-Z0-9-]+)(|/)$    index.php?url=$1
+RewriteRule adminpan/([a-zA-Z0-9-]+)(|/)$    adminpan/index.php?url=$1
+RewriteRule djpaneel/([a-zA-Z0-9-]+)(|/)$    djpaneel/djhome.php?url=$1
+RewriteRule ^habbo-imaging/badge/([^/]+)    /habbo-imaging/badge.php?badge=$1
+RewriteRule ^habbo-imaging/head/([^/]+)    /habbo-imaging/head.php?figure=$1
+RewriteRule news/([a-zA-Z0-9-]+)(|/)$    /index.php?url=news&id=$1
+RewriteRule home/([a-zA-Z0-9-]+)(|/)$    /index.php?url=profiel&user=$1
+RewriteRule adminpan/gebruiker/([a-zA-Z0-9-]+)(|/)$    /adminpan/index.php?url=gebruiker&user=$1
+RewriteRule adminpan/sollielook/([a-zA-Z0-9-]+)(|/)$    /adminpan/index.php?url=sollielook&look=$1
+RewriteRule adminpan/news/delete/([a-zA-Z0-9-]+)(|/)$    /adminpan/index.php?url=news&delete=$1
+RewriteRule adminpan/sollielook/delete/([a-zA-Z0-9-]+)(|/)$    /adminpan/index.php?url=sollielook&delete=$1
+RewriteRule adminpan/news/edit/([a-zA-Z0-9-]+)(|/)$    /adminpan/index.php?url=editnews&news=$1
+RewriteRule adminpan/bans/delete/([a-zA-Z0-9-]+)(|/)$    /adminpan/index.php?url=bans&delete=$1
+RewriteRule adminpan/giveuseroftheweek/([a-zA-Z0-9-]+)(|/)$    /adminpan/index.php?url=giveuseroftheweek&user=$1
+RewriteRule register/([a-zA-Z0-9-]+)(|/)$    /index.php?url=register&userref=$1
+RewriteRule newpassword/([a-zA-Z0-9-]+)(|/)$    /index.php?url=newpassword&key=$1

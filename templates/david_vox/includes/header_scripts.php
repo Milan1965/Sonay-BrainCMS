@@ -126,6 +126,13 @@ if(User::userData('djteam') > 0){
 							</ul>
 						</li>
 						<li>
+							<a href="#">Valuta<span><i class="far fa-angle-down"></i></span></a>
+
+							<ul class="subnavi">
+								<li><a href="/ruilwaarde">Ruilwaarde</a></li>
+							</ul>
+						</li>
+						<li>
 							<a href="#">Radio<span><i class="far fa-angle-down"></i></span></a>
 
 							<ul class="subnavi">

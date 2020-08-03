@@ -75,7 +75,7 @@ if(User::userData('djteam') > 0){
 							</a>
 
 							<ul class="user-subnavi">
-								<li><a href="/profiel/<?= User::userData('username') ?>">Mijn Pagina</a></li>
+								<li><a href="/home/<?= User::userData('username') ?>">Mijn Pagina</a></li>
 								<li><a href="/instellingen">Instellingen</a></li>
 								<li><a href="/uitloggen" class="logout">Afmelden</a></li>
 							</ul>

@@ -1,4 +1,5 @@
-<?php staffCheck(); ?>
+
+<?php admin::CheckRank(2); ?>
 <meta charset="utf-8">
 <link type="text/css" href="/templates/david_vox/css/style.css" rel="stylesheet">
 <link type="text/css" href="/templates/david_vox/css/settings.css" rel="stylesheet">

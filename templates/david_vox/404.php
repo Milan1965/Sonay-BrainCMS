@@ -3,7 +3,7 @@
 <?php
 include "includes/header_scripts.php"
 ?>
-    <title><?= $config['hotelName'] ?>: 404 kankeraap</title>
+    <title><?= $config['hotelName'] ?>: 404 Niet bestaand</title>
 </head>
 
 <body>

@@ -52,13 +52,14 @@
 												<td><b>Ervaring</b></td>
 												<td><b>Motivatie</b></td>
 												<td><b>Waarom jou aannemen?</b></td>
+												<td><b>IP</b></td>
 												<td><b>Datum</b></td>
 											</tr>
 									</strong>
 								</b>
 								<tbody>
 								<?php
-									$getArticles = $dbh->prepare("SELECT * FROM expsolli ORDER BY id DESC");
+									$getArticles = $dbh->prepare("SELECT * FROM expsolli ORDER BY date DESC LIMIT 8");
 									$getArticles->execute();
 									while($news = $getArticles->fetch())
 									{
@@ -71,6 +72,7 @@
 										<td style="width: 15%;">'.htmlspecialchars($news['ervaring']).'</td>
 										<td style="width: 20%;">'.htmlspecialchars($news['motivatie']).'</td>
 										<td style="width: 40%;">'.htmlspecialchars($news['jou']).'</td>
+										<td style="width: 40%;">'.htmlspecialchars($news['ip']).'</td>
 										<td>'. date('d-m-Y', $news['date']).'</td>
 										</tr>';
 									}

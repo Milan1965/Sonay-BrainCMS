@@ -33,7 +33,7 @@
 								</b>
 								<tbody>
 								<?php
-									$getArticles = $dbh->prepare("SELECT * FROM djsolli ORDER BY id DESC");
+									$getArticles = $dbh->prepare("SELECT * FROM expsolli ORDER BY date DESC LIMIT 8");
 									$getArticles->execute();
 									while($news = $getArticles->fetch())
 									{

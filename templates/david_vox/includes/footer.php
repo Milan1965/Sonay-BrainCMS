@@ -8,7 +8,7 @@
                     </ul>
 
                     <p><?= $config['hotelName'] ?> &copy; <?= date('Y'); ?>. Alle rechten voorbehouden.<br />Gemaakt met <b>❤️</b> door Sonay & <a href="/profiel/Milan" style="text-decoration:none;color:grey;">Milan</a> met <b>BrainCMS</b>.</p>
-                    <b>Versie: 1.0</b>
+                    <b>Versie: 1.1</b>
 					<!-- niet verwijderen hé jano! -->
 				</div>
             </div>
